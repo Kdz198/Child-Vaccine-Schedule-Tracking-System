@@ -3,7 +3,7 @@
 A web application designed to manage child vaccination schedules, providing flexible booking options, automated reminders, and an AI-powered chatbot for vaccination consultation. This project was developed as a team effort to streamline vaccination management for parents and healthcare providers.
 
 ## Features
-- **Flexible Booking**: Schedule vaccinations individually or in packages (lẻ/gói).
+- **Flexible Booking**: Schedule vaccinations individually or in packages (single/combo).
 - **Vaccination History Tracking**: Monitor and manage children's vaccination records.
 - **AI-Powered Chatbot**: Integrated with Spring AI (GPT-3.5) to provide vaccination consultation with 95% accuracy.
 - **Automated Email Reminders**: Send notifications for upcoming, overdue, and payment deadlines using Spring @Async, reducing response time by 50%.
