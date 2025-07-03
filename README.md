@@ -26,5 +26,5 @@ A web application designed to manage child vaccination schedules, providing flex
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kdz198/SWP301.git
-   cd SWP301
+   git clone https://github.com/Kdz198/Child-Vaccine-Schedule-Tracking-System.git
+   cd Child-Vaccine-Schedule-Tracking-System
